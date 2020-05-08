@@ -1,2 +1,2 @@
-create database library;
+create database if not exists library;
 use library;
