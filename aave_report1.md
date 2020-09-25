@@ -1,14 +1,4 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x&plus;y^2=z" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&plus;y^2=z" title="x+y^2=z" /></a>
 ## aave的lendingpool存入代币后的账户变化  
 
 
